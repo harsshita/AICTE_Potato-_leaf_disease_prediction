@@ -1,0 +1,1 @@
+# AICTE_Potato-_leaf_disease_prediction
